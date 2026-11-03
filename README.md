@@ -30,7 +30,7 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 
 ## How to Run
 ```bash
-git clone 
+git clone https://github.com/Mustafabbas621/Cardiovascular-Disease-Analysis-Project
 cd cardiovascular-disease-eda
 pip install numpy pandas matplotlib seaborn jupyter
 jupyter notebook Project_Cardio.ipynb
